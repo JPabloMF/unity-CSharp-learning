@@ -10,9 +10,13 @@ First select your sprite and then go to the component properties and there you w
 
 ![image](https://user-images.githubusercontent.com/36237628/184505560-b94ef897-a079-4aad-8881-05a33fa06afa.png)
 
+---
+
 ## Naming scripts convention
 Use came case, e.g:
 *MyFirstScript*
+
+---
 
 ## C# basics
 * Variables
@@ -21,3 +25,18 @@ Use came case, e.g:
 * Triggers
 * Colliders
 * References
+
+
+### What are methods?
+Methods (also called functions) execute blocks of code that makes our game do things
+#### We can:
+* use the methods already available in Unity
+* Create our own methods
+
+#### Initial unity methods
+##### Start method
+`void Start(){}`
+This method will be executed once you run your game, it is called before the first frame update
+##### Update method
+`void Update(){}`
+This methods will be executed once per frame
