@@ -13,3 +13,11 @@ First select your sprite and then go to the component properties and there you w
 ## Naming scripts convention
 Use came case, e.g:
 *MyFirstScript*
+
+## C# basics
+* Variables
+* If statements
+* Methods
+* Triggers
+* Colliders
+* References
