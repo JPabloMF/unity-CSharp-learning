@@ -63,3 +63,7 @@ e.g.
 `[SerializeField] float moveSpeed = 0.01f;`
 
 ![image](https://user-images.githubusercontent.com/36237628/184704736-dc11bf23-8c9e-4fe1-9c6d-da261621e300.png)
+
+---
+## Input system
+Converting the player's physical action (tg. button press, key press) into information for the game
