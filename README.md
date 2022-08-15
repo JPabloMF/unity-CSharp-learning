@@ -40,3 +40,9 @@ This method will be executed once you run your game, it is called before the fir
 ##### Update method
 `void Update(){}`
 This methods will be executed once per frame
+
+### transform.Rotate(x, y, z)
+Used to rotate objects
+
+### transform.Translate(x, y, z)
+Used to move objects
