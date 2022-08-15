@@ -54,3 +54,12 @@ Used to move objects
 * *double* - fractional numbers (up to 15 decimal places)
 * *bool* - true or false
 * *string* - sequence of characters
+
+---
+## Accesing variables from the inspector
+Use the keyword `[SerializeField]` at the beginning of the variable that you want to make visible from the inspector.
+e.g.
+`[SerializeField] float steerSpeed = 0.1f;`
+`[SerializeField] float moveSpeed = 0.01f;`
+
+![image](https://user-images.githubusercontent.com/36237628/184704736-dc11bf23-8c9e-4fe1-9c6d-da261621e300.png)
