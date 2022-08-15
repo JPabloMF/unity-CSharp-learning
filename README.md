@@ -46,3 +46,11 @@ Used to rotate objects
 
 ### transform.Translate(x, y, z)
 Used to move objects
+
+---
+## Variable types
+* *int* - whole numbers
+* *float* - fractional numbers (up to 6 decimal places)
+* *double* - fractional numbers (up to 15 decimal places)
+* *bool* - true or false
+* *string* - sequence of characters
