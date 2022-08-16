@@ -79,3 +79,6 @@ Unity can tell us how long each frame took to execute.
 When we multiply something by *Time.deltaTime* it makes our game "frame rate independent" that means that the game behaves the same on fast and slow computers.
 
 ![image](https://user-images.githubusercontent.com/36237628/184795169-36f0f6e2-98fb-4577-b9e1-48761787eba6.png)
+
+---
+## Colliders & Rigidbodies
